@@ -12,8 +12,8 @@
 </p>
 
 ## Join Group Diskusi
-[![Grup WhatsApp](https://chat.whatsapp.com/G1dSWdhRhpaIUcook1Q6Ei)](https://chat.whatsapp.com/EEuvxqQuv4bGsjrTttzFz8) 
-**NO BOT**
+[ ! [Grup WhatsApp] ( https://chat.whatsapp.com/G1dSWdhRhpaIUcook1Q6Ei ) ] ()https://chat.whatsapp.com/G1dSWdhRhpaIUcook1Q6Ei
+**TIDAK ADA BOT**
 
 ## Deploy to heroku
 
