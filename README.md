@@ -1,5 +1,5 @@
-<p align="center">
-<img src="https://telegra.ph/file/20211112-151327.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+< p  align = "tengah" >
+< img  src = " https://telegra.ph/file/20211112-151327.jpg "  lebar = "35%"  style = "margin-left: auto;margin-right: auto;display: block;" >
 </p>
 
 </p>
@@ -9,15 +9,15 @@
 <p align="center">
 <a href="https://github.com/BotzwhatsApp"><img title="Author" src="https://img.shields.io/badge/Author-BotzwhatsApp-red.svg?style=for-the-badge&logo=github"></a>
 <a href="https://github.com/BotzwhatsApp/v1n"><img title="Recode" src="https://img.shields.io/badge/Recode-Neko Official-red.svg?style=for-the-badge&logo=github"></a>
-</p>
-
-## Join Group Diskusi
-[ ! [Grup WhatsApp] ( https://chat.whatsapp.com/G1dSWdhRhpaIUcook1Q6Ei ) ] ()https://chat.whatsapp.com/G1dSWdhRhpaIUcook1Q6Ei
+</ p >
+saya
+## berdiskusi dengan Diskusi Grup
+[ ! [Grup WhatsApp] ( https://chat.whatsapp.com/G1dSWdhRhpaIUcook1Q6Ei )] (https://chat.whatsapp.com/G1dSWdhRhpaIUcook1Q6Ei)
 **TIDAK ADA BOT**
 
-## Deploy to heroku
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dawnfrosty/Mike-bot)
+## Terapkan ke heroku
+saya
+[ ! [Menyebarkan] (https://www.herokucdn.com/deploy/button.svg) ] (https://heroku.com/deploy?template=https://github.com/Dawnfrosty/Mike-bot)
 
 Heroku Buildpack
 | BuildPack | LINK |
