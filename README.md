@@ -12,7 +12,7 @@
 </p>
 
 ## Join Group Diskusi
-[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EEuvxqQuv4bGsjrTttzFz8) 
+[![Grup WhatsApp](https://chat.whatsapp.com/G1dSWdhRhpaIUcook1Q6Ei)](https://chat.whatsapp.com/EEuvxqQuv4bGsjrTttzFz8) 
 **NO BOT**
 
 ## Deploy to heroku
