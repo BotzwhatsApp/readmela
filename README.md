@@ -26,11 +26,11 @@ Heroku Buildpack
 | **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
 Tutorial YouTube
+[![Why](wa.me/62895335751267)](wa.me/62895335751267)
 
 [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/DzNIL45qHaM)
 ## FOR TERMUX/UBUNTU/SSH USER
 
-[![whatsApp pribadi] (wa.me/62895335751267
 ```bash
 apt update && apt upgrade
 apt install git -y
